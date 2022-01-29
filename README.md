@@ -1,0 +1,1 @@
+# Find pair of numbers that add and multiply to certain numbers. Made to help in factorization method of finding roots.
